@@ -9,6 +9,6 @@ Learning to classify unseen class samples at test time is popularly referred to 
   title={A meta-learning framework for generalized zero-shot learning},
   author={Verma, Vinay Kumar and Brahma, Dhanajit and Rai, Piyush},
   journal={Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20)},
-  year={2019}
+  year={2020}
 }
 ```
