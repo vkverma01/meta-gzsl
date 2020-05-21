@@ -14,4 +14,4 @@ Download the data from the address: http://www.robots.ox.ac.uk/~lz/DEM_cvpr2017/
 }
 ```
 ### Note:
-Code is not clean many line may me redundant. Also comment are not proper. 
+Code is not clean many line may me redundant, Also comments are not proper. 
