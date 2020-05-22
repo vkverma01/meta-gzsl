@@ -14,4 +14,5 @@ Download the data from the address: http://www.robots.ox.ac.uk/~lz/DEM_cvpr2017/
 }
 ```
 ### Note:
-Code is not clean many line may me redundant, Also comments are not proper. 
+1- Please note that this not final implementation, this code is mostly the analysis of the result and network, but it help to get the idea and reproduce the result.
+2-Code is not clean many line may me redundant, Also comments are not proper. 
